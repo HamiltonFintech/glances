@@ -8,7 +8,7 @@ File System
 Glances displays the used and total file system disk space. The unit is
 adapted dynamically.
 
-Alerts are set for used disk space.
+Alerts are set for `"used percent" user disk space <https://github.com/giampaolo/psutil/blob/master/psutil/_psposix.py>`_.
 
 Legend:
 
